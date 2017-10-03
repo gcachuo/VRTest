@@ -1,1 +1,6 @@
+/PlayerDataCache/
+/metadata/
 /EditorInstance.json
+*.log
+*.buildreport
+/assetDatabase3
